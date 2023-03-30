@@ -1,5 +1,4 @@
-# Templates
-## How To Use Templates
+## How To Setup & Use Templates
 #### Setup
 - Set up template folder.
 	Core plugins > Templates > Template folder location = "Templates"
@@ -10,8 +9,6 @@
 - Set a title.
 - Press your hotkey.
 - Fill in the appropriate fields.
-## Template for notes
-![[Note Template]]
 #### Field
 The mathematical field this note is linked to.
 	Eg. Algebra.
