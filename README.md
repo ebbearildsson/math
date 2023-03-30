@@ -16,6 +16,6 @@ The mathematical field this note is linked to.
 Which course this note relates to.
 	Eg. FMAF05
 	If no course in particular set "undefined"
-## Required Plugins
+## Required/Useful Plugins
 - Quick LaTeX For Obsidian
 - Obsidian GIT
