@@ -1,5 +1,5 @@
-#field
-#course 
+#algebra 
+#undefined 
 ## Definition
 A [[Point]], [[Line]] or [[Curve]] two or more objects have in common.
 > Every pair of non-parrallel lines contain exactly one intersection.
