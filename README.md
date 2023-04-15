@@ -8,7 +8,7 @@
 - Create your note.
 - Set a title.
 - Press your hotkey.
-- Fill in the appropriate fields.
+- Fill in the appropriate fields for the [[Note Template]].
 #### Field
 The mathematical field this note is linked to.
 	Eg. Algebra.

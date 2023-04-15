@@ -21,3 +21,14 @@ a & 0 & 0\\
 $$
 2. [[Zero Dimension]]
 The rank can be found by calculating the differance between the matrix's [[Dimension]] and zerodimension, $dim(A) - dim_0(A)$.
+## Example
+1. Fixed Rank
+Calculate all numbers $a$ can be so that, rank $A=0$, where $A$ is:$$
+\begin{align}
+\begin{bmatrix}1 & -1 & 2\\2 & 0 & -1\\-1 & 3 & a\end{bmatrix}\\
+\begin{bmatrix}1 & -1 & 2\\0 & 2 & -5\\0 & 2 & a+2\end{bmatrix}\\
+\begin{bmatrix}1 & -1 & 2\\0 & 2 & -5\\0 & 0 & a+7\end{bmatrix}\\
+a+7=0\\
+a=-7
+\end{align}
+$$
