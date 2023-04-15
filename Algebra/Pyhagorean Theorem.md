@@ -1,6 +1,6 @@
 #algebra
 #undefined
-## Equation
+## Definition
 $$ 
 \begin{align*}
 a^{2}+b^{2}=c^{2}
