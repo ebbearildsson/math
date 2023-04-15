@@ -3,7 +3,7 @@
 ## Methods
 Number of coloumns in the first [[Matrix]] must equal number of rows in second.
 - Equal Size
-> nxn x  nxn = nxn
+> $n\times n \cdot  n\times n = n\times n$
 $$
 \begin{align*}
 \begin{bmatrix}
@@ -22,7 +22,7 @@ ce+dg & cf+dh
 \end{align*}
 $$
 - Coloumn
-> nxn x nxp = nxp
+> $n\times n \cdot  n\times p = n\times p$
 $$
 \begin{align*}
 \begin{bmatrix}
