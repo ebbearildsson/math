@@ -3,7 +3,7 @@
 - Set up template folder.
 	Core plugins > Templates > Template folder location = "Templates"
 - Set up hotkey.
-	Options > Hotekeys > Templates: Insert Template
+	Options > Hotkeys > Templates: Insert Template
 #### Usage
 - Create your note.
 - Set a title.
