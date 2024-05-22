@@ -1,7 +1,7 @@
 #algebra 
 #linear-algebra 
 ## Definition
-Multiplies [[Vector]]s in such a way to recieve a [[Scalar]]. Done by multiplying each value with the corresponding ones on the other vector and then taking the [[Sum]].
+Multiplies [[Vector]]s in such a way to receive a [[Scalar]]. Done by multiplying each value with the corresponding ones on the other vector and then taking the [[Sum]].
 > If the dot product between two vectors is zero they are perpendicular.
 ## Methods
 $$\begin{gather}
